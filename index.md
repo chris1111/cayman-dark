@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# Cayman-Dark Theme
+
+*Cayman-Dark is an adaptation of the Cayman Jekyll theme for GitHub Pages.*
+
+You can preview the theme at [chris1111.github.io/cayman-dark](http://chris1111.github.io/cayman-dark). All Credit to [lewismiddleton.cayman-dark](https://github.com/lewismiddleton/cayman-dark)
+
+
+The dark mode functionality comes from Dark Reader which can be found here: [https://github.com/darkreader/darkreader](https://github.com/darkreader/darkreader)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
